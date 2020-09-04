@@ -1,2 +1,2 @@
 # TFM-UNIR
-Trabajo fin de Mastes en Inteligencia artificial
+Trabajo fin de Master en Inteligencia artificial
